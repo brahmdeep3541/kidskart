@@ -9,7 +9,18 @@
 }
 .block-in{
     display: inline;
+    padding: 3px ;
+    border-radius: 5px ;
+    background-color: #00D7FF;
+    border: 3px black;
+    margin: 2px ;   
+       
     
+}
+.block-in:hover{
+    background-color: #0096FF;
+    color: whitesmoke;
+
 }
 nav{
     background-color: rgb(152, 227, 250);
